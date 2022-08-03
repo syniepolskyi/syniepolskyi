@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syniepolskyi
-- 👀 I’m interested in programming, music, life ignoring (:
+- 👀 I’m interested in programming, music, games
 - 🌱 I’m currently learning JS,CSS
-- 💞️ I’m looking to collaborate on not very interesting projects (:
+- 💞️ I’m looking to collaborate on very interesting projects (:
 - 📫 How to reach me : telegram - @Sinepolsky, here
 
 <!---
